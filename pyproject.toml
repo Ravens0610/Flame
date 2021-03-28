@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "SciOS"
+name = "Flame OS"
 version = "0.1.0"
-description = "Web Browser! Unlock with the password and you're all set!"
+description = "the Flame Operating System open source project"
 authors = ["Jackson Schultz"]
 
 [tool.poetry.dependencies]
